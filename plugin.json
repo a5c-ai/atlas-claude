@@ -1,0 +1,37 @@
+{
+  "name": "atlas",
+  "version": "5.0.1-staging.28347f861706",
+  "description": "Turn a stated need into a full system design by mining the Atlas knowledge graph.",
+  "author": {
+    "name": "a5c.ai"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a5c-ai/babysitter"
+  },
+  "homepage": "https://github.com/a5c-ai/babysitter/tree/main/plugins/atlas-unified#readme",
+  "keywords": [
+    "atlas",
+    "knowledge-graph",
+    "system-design",
+    "discovery",
+    "process-mining",
+    "data-mining",
+    "mcp",
+    "agent",
+    "LLM",
+    "claude-code"
+  ],
+  "commands": [],
+  "skills": [
+    {
+      "name": "atlas",
+      "file": "skills/atlas/SKILL.md"
+    },
+    {
+      "name": "atlas-graph-query",
+      "file": "skills/atlas-graph-query/SKILL.md"
+    }
+  ]
+}
