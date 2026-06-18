@@ -9,7 +9,7 @@
       "name": "atlas",
       "source": "./",
       "description": "Turn a stated need into a full system design by mining the Atlas knowledge graph.",
-      "version": "5.1.1-staging.d8174bb4085a",
+      "version": "5.1.1-staging.a0157aa082d5",
       "author": {
         "name": "a5c.ai"
       }
